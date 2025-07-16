@@ -1,0 +1,7 @@
+StudentID,CourseCode,CourseName,Semester,Grade
+S001,CS101,Intro to Programming,Fall 2021,88
+S001,CS102,Data Structures,Spring 2022,92
+S002,EE101,Circuits,Fall 2021,75
+S003,ME101,Thermodynamics,Fall 2021,80
+S004,CS101,Intro to Programming,Fall 2020,85
+S005,EE101,Circuits,Fall 2021,60

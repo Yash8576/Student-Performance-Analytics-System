@@ -1,0 +1,7 @@
+StudentID,CourseCode,Semester,AttendancePercentage
+S001,CS101,Fall 2021,95
+S001,CS102,Spring 2022,90
+S002,EE101,Fall 2021,88
+S003,ME101,Fall 2021,85
+S004,CS101,Fall 2020,92
+S005,EE101,Fall 2021,70
